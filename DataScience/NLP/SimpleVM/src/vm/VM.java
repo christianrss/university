@@ -64,7 +64,7 @@ public class VM
 				case HALT:
 					break loop;
 				default:
-					throw new Error("invalid opcode: " + opCode + "");
+					throw new Error("invalid opcode: " + opCode + " at ip="+ (ip-1) );
 			}
 			if ( trace ) System.err.println(this.stackString());
 			opCode = code[ip];
