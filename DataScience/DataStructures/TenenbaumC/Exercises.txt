@@ -7,7 +7,7 @@ podem ser executadas sobre eles.
 1.1.3 Prove que existe 2^n definições diferentes para n chaves bivalentes. Suponha que queremos ter m definições.
 Quantas chaves seriam necessárias?
 
-1.1.4 Interprete as seguitnes definições de bits como inteiros positivios binários, como inteiros binários em complemento de dois,
+1.1.4 Interprete as seguintes definições de bits como inteiros positivos binários, como inteiros binários em complemento de dois,
 e como inteiros decimais codificados em binário. Se uma definição não puder ser interpretada como um inteiro decimal codificado
 em binário, explique por quê.
 
